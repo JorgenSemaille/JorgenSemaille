@@ -10,7 +10,7 @@
 <br>  
   
 
-- 🧪 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🧪 I’m currently working on [hidden_project](https://)  
   
 
 - 🌱 I’m currently learning Python with Django Framework  
